@@ -40,7 +40,7 @@
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 3. Open "Homeport API Usage Examples" notebook
-4. Set python interpreter for the project (venv/bin/python)
+4. Create/Set python interpreter for the project (./venv/bin/python)
 
 ## Generate API Key
 1. Click your profile icon (bottom right corner)
